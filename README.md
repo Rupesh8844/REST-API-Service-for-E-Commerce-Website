@@ -7,8 +7,6 @@ We were a team of 6 member from the Masai Web-17 batch. We worked on creating RE
 
 # Details : 🔭
 Our project performs fundamental operations of an e-commerce website, where our customer's data is validated, mapped, processed with business logic & persisted in the database.
-
- 🚀 The Swagger link to check rest Api-> http://localhost:8088/swagger-ui/
  
 
 # Our Team Members 👨‍💻
